@@ -1,0 +1,9 @@
+1,6,I didn't receive my monthly bill. 
+12,2,My internet connection is slow at times. Please check. 
+7,5,Please upgrade my package to unlimited data package. 
+4,1,My land line stopped working.  
+11,12,Where can I purchase a new connection? 
+16,8,What are the roaming packages available in Greenland? 
+15,2,Please kindly attend to my internet connection issue. 
+9,13,Can I pay my bills online? 
+19,2,Still didn't get a solution to slow internet issue. 
